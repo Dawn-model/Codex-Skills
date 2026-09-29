@@ -1,6 +1,9 @@
 # Codex Skills
 
 本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
+<img width="640" height="640" alt="openai" src="https://github.com/user-attachments/assets/2ffc7460-9b23-482b-a734-724f099561e3" />
+<img width="640" height="640" alt="codex-color" src="https://github.com/user-attachments/assets/33a253a3-ec78-4272-8ee2-d52883874ac6" />
+
 
 ## 🟡简介
 ### ① 数学建模｜`math-model-skill`
