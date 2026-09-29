@@ -1,6 +1,6 @@
 # Codex Skills
 
-本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**
+本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
 
 ## 简介
 
