@@ -1,4 +1,4 @@
-# Codex Skills：数学建模与路线规划
+# Codex Skills
 
 本仓库包含两个 Codex Skill，分别用于**数学建模竞赛**和**学习/工作路线规划**。
 
