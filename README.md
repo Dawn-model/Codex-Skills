@@ -44,10 +44,7 @@ $roadmap-dawn
 ```text
 ~\.codex\skills\
 ```
-
-```
 可以在codex左侧栏的插件选项中，任意选择一个skill打开，点击右上角的更多，选择文件资源管理器打开，这样可以找到skill的安装目录。
-```
 
 
 安装完成后重启 Codex，在 Skills 列表中可以找到。
