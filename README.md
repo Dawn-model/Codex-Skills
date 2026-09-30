@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/2ffc7460-9b23-482b-a734-724f099561e3" width="180" alt="openai" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/60ce3f48-e811-43cc-8ec6-908a02f35628"
-    width="200" alt="codex" />
+    width="180" alt="codex" />
 
 </div>
 
