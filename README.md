@@ -1,8 +1,8 @@
 # Codex Skills
 
 本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
-**For:**
 
+**For:**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2ffc7460-9b23-482b-a734-724f099561e3" width="180" alt="openai" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
