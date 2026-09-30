@@ -11,7 +11,7 @@
 
 </div>
 
-
+<hr style="width:80%;">
 ## 🟡简介
 ### ① 数学建模｜`math-model-skill`
 
