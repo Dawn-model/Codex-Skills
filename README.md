@@ -3,9 +3,9 @@
 本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
 **For:**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2ffc7460-9b23-482b-a734-724f099561e3" width="160" alt="openai" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/2ffc7460-9b23-482b-a734-724f099561e3" width="190" alt="openai" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/33a253a3-ec78-4272-8ee2-d52883874ac6" width="210" alt="codex-color" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/33a253a3-ec78-4272-8ee2-d52883874ac6" width="210" alt="codex" style="vertical-align: middle;">
 </div>
 
 
