@@ -1,7 +1,8 @@
 <h1 align="center">Codex Skills</h1>
 
 本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
-另附有SKILL编写教程，0基础教学，看完可以自己手动完成skill制作
+
+另附有**SKILL编写教程**，0基础教学，看完可以自己手动完成skill制作
 
 **For:**
 <div align="center">
