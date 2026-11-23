@@ -2,7 +2,8 @@
 
 本仓库包含多个 Codex Skill，可按需取用，在**持续更新中**……
 
-另附有**SKILL编写教程**，0基础教学，看完可以自己手动完成skill制作
+另附有 [**SKILL编写教程**](https://github.com/Dawn-model/Codex-Skills/blob/main/%E4%BB%80%E7%B2%BE%E9%80%9Askill%EF%BC%9A%E4%BD%A0%E7%9A%84codex%20skill%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.pdf)
+，0基础教学，看完可以自己手动完成skill制作
 
 **For:**
 <div align="center">
